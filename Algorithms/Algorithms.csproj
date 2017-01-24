@@ -49,6 +49,7 @@
     <Compile Include="BitManipulations\XOR_Sequence.cs" />
     <Compile Include="DynamicProgramming\FibonacciModified.cs" />
     <Compile Include="GraphTheory\JourneyToTheMoon.cs" />
+    <Compile Include="GraphTheory\ReallySpecialSubTree.cs" />
     <Compile Include="Source.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Strings\TheLoveLetterMystery.cs" />
